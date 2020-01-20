@@ -1,0 +1,66 @@
+body{
+ margin:0;
+ padding:0;
+ background-color:greenyellow;
+}
+
+#header {
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    background-color: #2a972a;
+    line-height: 105px;
+    color: #fbfafa;
+
+}
+
+#navigation {
+	font-size: 20px;
+    text-decoration: none;
+    background-color: #5f2c937a;
+    margin-top: -27px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 10px;
+
+}
+#bgcontent{
+	background-color:#215705b5;
+	height:60%;
+}
+#content{
+    text-align: center;
+    border: 1px solid;
+    margin-left: 298px;
+    margin-right: 326px;
+    background-color: #6ebf75;
+	height:65%;
+}
+
+#form input[type= "submit"]{
+    width: 100;
+    height: 32px;
+}
+
+#form input{
+    width: 200px;
+    height: 26px;
+}
+
+#text{
+
+    font-size: 29px;
+    text-align: center;
+    font-weight: bold;
+    color: #80006c;
+    background-color: black;
+
+}
+
+#footer{
+	background-color:#6c916c;
+	padding:8px;
+	text-align:center;
+	}
